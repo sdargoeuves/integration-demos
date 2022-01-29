@@ -8,8 +8,7 @@ It takes the inventory from IP Fabric, and create the host in Centreon if not pr
 
 ## nagios subdirectory
 
-For nagios_api_client.py, a NAGIOS XI API client subclass of httpx. Test script is nagios_test.py
-[IP Fabric Blog- Nagios integration](https://ipfabric.io/blog/ipfabric-nagios-api-integration/)
+For nagios_api_client.py, a NAGIOS XI API client subclass of httpx. Test script is nagios_test.py. You can find the [blog - IP Fabric and Nagios integration](https://ipfabric.io/blog/ipfabric-nagios-api-integration/)
 
 ## nist_cve subdirectory
 
